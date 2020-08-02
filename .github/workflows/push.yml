@@ -1,5 +1,5 @@
 on: push
-name: image I
+name: image
 jobs:
   deploy:
     name: image to dockerhb
